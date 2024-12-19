@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Laba3" Database="" Version="10000">
+  <Project Name="Laba3" Path="Laba3/Laba3.project" Active="No"/>
+  <Project Name="Laba3_1" Path="Laba3_1/Laba3_1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Laba3" ConfigName="Debug"/>
+      <Project Name="Laba3_1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Laba3" ConfigName="Release"/>
+      <Project Name="Laba3_1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
